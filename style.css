@@ -1,0 +1,21 @@
+body{
+    background-color: cadetblue;
+    
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    left: 40%;
+    top:20%
+}
+button{
+    background-color: darkcyan;
+    font-size: 1.2rem;
+    border-radius: 6px;
+}
+button:hover{
+    cursor: pointer;
+}
